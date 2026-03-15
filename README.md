@@ -1,7 +1,8 @@
-# reAct Agent (LangGraph + LangChain)
+# AI Agents Collection – 
+Agent 1: reAct Agent (LangGraph + LangChain)
 
-This project demonstrates a **LangChain-powered agent** orchestrated with **LangGraph**.  
-It uses Python to build and run autonomous workflows, with environment variables stored securely in a `.env` file.
+This repository is the **first AI agent** in a planned collection, named **React Agent**.  
+It demonstrates a **LangChain-powered agent** orchestrated with **LangGraph**, using Python to build and run autonomous workflows, with environment variables stored securely in a `.env` file.
 
 ---
 
@@ -9,8 +10,8 @@ It uses Python to build and run autonomous workflows, with environment variables
 - Agent orchestration with **LangGraph**
 - Integration with **LangChain Core**
 - Configurable via `.env` (API keys, secrets)
-- Jupyter Notebook (`main.ipynb`) for experimentation
 - Modular Python script (`react_agent.py`) for running the agent
 
 ---
+Agent 2 :
 
